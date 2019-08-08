@@ -1,1 +1,2 @@
-# Applied-Predictive-Modeling-for-People-in-Hurry-with-Python
+## Applied-Predictive-Modeling-for-People-in-Hurry-with-Python
+Honestly, GAN takes too long to train and I had to find a way to kill the time while it is training, and I wasn't gonna binge watch another series of Breaking Bad (only because I've seen it too many times). What better way is there to kill the time other than re-writing an entire book that's written in R in Python while condensing it down for people who are in hurry.
